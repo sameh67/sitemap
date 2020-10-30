@@ -22,12 +22,7 @@ body {
   color: orange;
 }
 
-/* Three column layout */
-.side {
-  float: left;
-  width: 15%;
-  margin-top: 10px;
-}
+
 
 .middle {
   float: left;
