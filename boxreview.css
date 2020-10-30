@@ -4,26 +4,6 @@
 
 
 
-.fa {
-  font-size: 25px;
-}
-
-.checked {
-  color: orange;
-}
-
-
-
-.middle {
-  float: left;
-  width: 70%;
-  margin-top: 10px;
-}
-
-/* Place text to the right */
-.right {
-  text-align: right;
-}
 
 /* Clear floats after the columns */
 .row:after {
