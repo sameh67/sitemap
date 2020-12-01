@@ -1,4 +1,4 @@
-   const BARIS = 10;
+   const BARIS = 100;
         const id = [
 
            {
